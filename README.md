@@ -15,7 +15,7 @@
 ## 🚀 Installation & Setup
 1️⃣ Clone this repository:
 ```sh
-[git clone https://github.com/parasraju/Typing-Speed-Tester.git]
+git clone https://github.com/parasraju/Typing-Speed-Tester.git
 cd typing-speed-tester
 ```
 
